@@ -1,6 +1,0 @@
-{
-    "category": "plugins",
-    "display": "Validate text format",
-    "type": "server_side",
-    "use_packages": true
-}
