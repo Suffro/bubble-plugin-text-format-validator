@@ -2,13 +2,13 @@ name: bubble-plugin-text-format-validator
 title: Text Format Validator Guide
 
 description: >- # this means to ignore newlines until "baseurl:"
-  Complete data validation for your Bubble.io apps, powered by validator.js — the most popular string validation library on npm (200M+ downloads). One flexible action with 29 validation formats ready to use as email, URL, phone number, IBAN, credit card, VAT number, password strength, postal code, dates, UUID, JSON and many more. Available both **client-side** (instant feedback, zero workload) and **server-side** (direct return values, secure pre-database validation). Every validation is configurable through options and locale — native support for international formats. Stop reinventing the wheel with fragile regex, use the industry standard.
+  Validate 25+ text formats in your Bubble.io app like hex color, emails, phones, IBANs, dates etc. Powered by validator.js, the industry-standard validation library.
   
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://suffro.github.io/bubble-plugin-text-format-validator" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Jeckyll theme
-theme: jekyll-theme-architect
+theme: jekyll-theme-tactile
 
 # ╔══════════════════════════════════════════════════════════════════════╗
 # ║                 GITHUB PAGES — SUPPORTED JEKYLL THEMES               ║
@@ -23,7 +23,7 @@ theme: jekyll-theme-architect
 # ║  5   Leap Day         theme: jekyll-theme-leap-day                   ║
 # ║  6   Merlot           theme: jekyll-theme-merlot                     ║
 # ║  7   Midnight         theme: jekyll-theme-midnight                   ║
-# ║  8   Minima           theme: minima                                  ║
+# ║  8   Minima           theme: jekyll-theme-minima                     ║
 # ║  9   Minimal          theme: jekyll-theme-minimal                    ║
 # ║  10  Modernist        theme: jekyll-theme-modernist                  ║
 # ║  11  Slate            theme: jekyll-theme-slate                      ║
