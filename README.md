@@ -5,7 +5,11 @@
 3. Fill in `text to validate` and `format`.
 4. The optional advanced fields `Extra option 1`, `Extra option 2` and `Compare value`, depend on the chosen format, **check the guide below**.
 5. Catch validation actions with the following events: `Format validation complete`, `Format validation passed`, `Format validation failed`.
-6. Read the result from the element states: `is valid`, `error message`, `validated text`, `validated format`. 
+6. Read the result from the element states: `is valid`, `error message`, `validated text`, `validated format`.
+
+---
+
+> Bubble.io plugin page: [text-format-validator](https://bubble.io/plugin/text-format-validator-1774652211570x836065992529150000)
 
 ---
 
