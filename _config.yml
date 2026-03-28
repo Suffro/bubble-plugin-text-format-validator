@@ -1,5 +1,5 @@
 name: bubble-plugin-text-format-validator
-title: Text Format Validator Guide
+title: Text Format Validator for Bubble.io
 
 description: >- # this means to ignore newlines until "baseurl:"
   Validate 25+ text formats in your Bubble.io app like hex color, emails, phones, IBANs, dates etc. Powered by validator.js, the industry-standard validation library.
