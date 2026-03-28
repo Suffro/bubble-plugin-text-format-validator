@@ -59,7 +59,7 @@
 
 > **isBefore/isAfter**: if Compare value is empty, compares against today's date.
 
-### Security
+### Identity / Security
 
 | Type | Extra option 1 | Extra option 2 | Compare value |
 |------|-------------|----------------|---------------|
