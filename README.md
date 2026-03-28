@@ -1,5 +1,3 @@
-# Text Format Validator Guide
-
 ## How it works
 
 1. Drag the **Validator** element onto your page and hide it.
