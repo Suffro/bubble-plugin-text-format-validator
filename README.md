@@ -1,4 +1,6 @@
-# Text Format Validator Bubble.io Plugin
+# Text Format Validator
+
+### Bubble.io Plugin Documentation
 
 This is a repository based on the [Bubble](https://bubble.io) plugin 'Text Types Validator'. This lets you use Github's functionality in terms of version control, forks and pull requests. Note that the the plugin code is stored on Bubble's servers, and you need to synchronize your repository in the Bubble Plugin Editor. 
 
