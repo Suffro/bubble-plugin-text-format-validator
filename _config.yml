@@ -8,9 +8,8 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://suffro.github.io/bubble-plugin-text-format-validator" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Jeckyll theme
-theme: architect
+theme: jekyll-theme-architect
 
-<!--
 # ╔══════════════════════════════════════════════════════════════════════╗
 # ║                 GITHUB PAGES — SUPPORTED JEKYLL THEMES               ║
 # ╠══════════════════════════════════════════════════════════════════════╣
