@@ -1,3 +1,5 @@
+# Text Format Validator for Bubble.io
+
 ## How it works
 
 1. Drag the **Validator** element onto your page and hide it.
