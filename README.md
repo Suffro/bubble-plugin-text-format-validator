@@ -1,18 +1,15 @@
-### Quick guide to the **Extra option 1**, **Extra option 2** and **Compare value** fields.
+## How it works
+
+1. Drag the **Validator** element onto your page and hide it.
+2. In your workflow: `Element Actions → Text format validator → Validate`.
+3. Fill in `text to validate` and `format`.
+4. The optional advanced fields `Extra option 1`, `Extra option 2` and `Compare value`, depend on the chosen format, **check the guide below**.
+5. Catch validation actions with the following events: `Format validation complete`, `Format validation passed`, `Format validation failed`.
+6. Read the result from the element states: `is valid`, `error message`, `validated text`, `validated format`. 
 
 ---
 
-## How it works
-
-1. Drag the **Validator** element onto your page (invisible, 0×0 px)
-2. In your workflow: `Element Actions → Text format validator → Validate`
-3. Fill in **Text to validate** and **format**
-4. Optional advanced fields depend on the chosen type, **check the guide below**
-5. Catch validation actions with the following events: `Format validation complete`, `Format validation passed`, `Format validation failed`
-6. Read the result from the element states: `is valid`, `error message`, `validated text`, `validated format` 
-
-
-## Formats reference
+## Formats advanced options reference
 
 ### Web / Network
 
