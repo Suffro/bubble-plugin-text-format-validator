@@ -8,7 +8,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://suffro.github.io/bubble-plugin-text-format-validator" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Jeckyll theme
-theme: jekyll-theme-minima
+theme: minima
 
 # ╔══════════════════════════════════════════════════════════════════════╗
 # ║                 GITHUB PAGES — SUPPORTED JEKYLL THEMES               ║
@@ -23,7 +23,7 @@ theme: jekyll-theme-minima
 # ║  5   Leap Day         theme: jekyll-theme-leap-day                   ║
 # ║  6   Merlot           theme: jekyll-theme-merlot                     ║
 # ║  7   Midnight         theme: jekyll-theme-midnight                   ║
-# ║  8   Minima           theme: jekyll-theme-minima                     ║
+# ║  8   Minima           theme: minima                                  ║
 # ║  9   Minimal          theme: jekyll-theme-minimal                    ║
 # ║  10  Modernist        theme: jekyll-theme-modernist                  ║
 # ║  11  Slate            theme: jekyll-theme-slate                      ║
