@@ -2,13 +2,41 @@ name: bubble-plugin-text-format-validator
 title: Text Format Validator Guide
 
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Complete data validation for your Bubble.io apps, powered by validator.js — the most popular string validation library on npm (200M+ downloads). One flexible action with 29 validation formats ready to use as email, URL, phone number, IBAN, credit card, VAT number, password strength, postal code, dates, UUID, JSON and many more. Available both **client-side** (instant feedback, zero workload) and **server-side** (direct return values, secure pre-database validation). Every validation is configurable through options and locale — native support for international formats. Stop reinventing the wheel with fragile regex, use the industry standard.
   
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://suffro.github.io/bubble-plugin-text-format-validator" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Jeckyll theme
-theme: minima
+theme: architect
+
+<!--
+# ╔══════════════════════════════════════════════════════════════════════╗
+# ║                 GITHUB PAGES — SUPPORTED JEKYLL THEMES               ║
+# ╠══════════════════════════════════════════════════════════════════════╣
+# ║                                                                      ║
+# ║  #   Theme           _config.yml                                     ║
+# ║  ──  ──────────────   ────────────────────────────────────────────── ║
+# ║  1   Architect        theme: jekyll-theme-architect                  ║
+# ║  2   Cayman           theme: jekyll-theme-cayman                     ║
+# ║  3   Dinky            theme: jekyll-theme-dinky                      ║
+# ║  4   Hacker           theme: jekyll-theme-hacker                     ║
+# ║  5   Leap Day         theme: jekyll-theme-leap-day                   ║
+# ║  6   Merlot           theme: jekyll-theme-merlot                     ║
+# ║  7   Midnight         theme: jekyll-theme-midnight                   ║
+# ║  8   Minima           theme: minima                                  ║
+# ║  9   Minimal          theme: jekyll-theme-minimal                    ║
+# ║  10  Modernist        theme: jekyll-theme-modernist                  ║
+# ║  11  Slate            theme: jekyll-theme-slate                      ║
+# ║  12  Tactile          theme: jekyll-theme-tactile                    ║
+# ║  13  Time Machine     theme: jekyll-theme-time-machine               ║
+# ║                                                                      ║
+# ║  Previews:  https://pages-themes.github.io/{theme-name}/             ║
+# ║  Minima:    https://jekyll.github.io/minima/                         ║
+# ║  Full list: https://pages.github.com/themes/                         ║
+# ║                                                                      ║
+# ║  Per temi non ufficiali: remote_theme: user/repo                     ║
+# ║  Gallery:   https://jekyllthemes.io/github-pages-themes              ║
+# ║                                                                      ║
+# ╚ ═════════════════════════════════════════════════════════════════════╝
 
